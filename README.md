@@ -2,7 +2,7 @@ Solution Engineering Data Specialist Challenge
 
 We'd love to move forward to the next step: the take-home challenge. This is somewhat less structured and the point is to see a realistic work product from you that's relevant to your prospective role.
 
-Thank you for being willing to do this challenge. FullStory fosters an empowered and autonomous culture, with the opportunity to tackle new challenges as we scale. We hope this provides a taste for the types of scenarios you might encounter on the job!
+Thank you for being willing to do this challenge. Fullstory fosters an empowered and autonomous culture, with the opportunity to tackle new challenges as we scale. We hope this provides a taste for the types of scenarios you might encounter on the job!
 
 
 Scenario:
