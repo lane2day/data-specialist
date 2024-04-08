@@ -21,6 +21,8 @@ We have some theories about places where there might be issues. Feel free to use
 
 Your challenge is to present back to the Cargo Chief Data Officer and their data team examples of the value you were able to generate from analyzing Cargo’s data.
 
+Optionally, feel free to provide written feedback at the end of the slide deck around how the data structure could be improved upon, be it for manual analysis or machine learning purposes. There is no right or wrong answer, we welcome all feedback, so please do not hold back.
+
 You’ll use this linked slide deck as your template and create no more than 5 slides to demonstrate and present your work.
 
 Audience
