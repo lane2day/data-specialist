@@ -29,7 +29,10 @@ Audience
 - VP Data Infrastructure
 - Manager Data Engineering
 
+
+
 Instructions 
+
 This is designed to be a take home exercise where you will use your skills and experience to analyze the data. There is no time limit on this project as the project completion comes in the form of a presentation to the hiring team.
 Please submit via the Ashby link provided in the email containing the Challenge instructions.
 
@@ -42,6 +45,8 @@ cat event_data_a? | gunzip > event_data.json
 
 The dataset(s) follow the structure outlined here:
 https://help.fullstory.com/hc/en-us/articles/360020829273-What-is-Data-Export#data-export-contents
+
+
 
 
 
