@@ -35,9 +35,18 @@ Please submit via the Ashby link provided in the email containing the Challenge 
 
 We only expect you to look at event_data.json but we have also provided user_data.json.gz as an optional extra data source for further analysis. 
 
-event_data.json is split across the multiple event_data_ files, you can use the following command via a terminal to extract event_data.json when in the same directory as the files: cat event_data_a? | gunzip > event_data.json
+event_data.json is split across the multiple event_data_ files, you can use the following command via a terminal to extract event_data.json when in the same directory as the files: 
 
-Deliverable Format 
+cat event_data_a? | gunzip > event_data.json
+
+
+The dataset(s) follow the structure outlined here:
+https://help.fullstory.com/hc/en-us/articles/360020829273-What-is-Data-Export#data-export-contents
+
+
+
+Deliverable Format
+
 Provide your presentation in Google Slides form and utilize speaker notes or an accompanying Google Doc to walk through any of the work in which you took pride but might not be directly spoken to in your presentation. 
 This challenge is designed to explore your familiarity with working in unique data sets, test your creativity in data analysis, and understand your comfort level presenting to an executive team in a pre-sales (selling) capacity.
 
