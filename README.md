@@ -45,6 +45,12 @@ event_data.json is split across the multiple event_data_ files, you can use the 
 cat event_data_a? | gunzip > event_data.json
 
 
+For user_data.json.gz please use this command:
+
+gunzip user_data.json.gz
+
+
+
 The dataset(s) follow the structure outlined here:
 https://help.fullstory.com/hc/en-us/articles/360020829273-What-is-Data-Export#data-export-contents
 
